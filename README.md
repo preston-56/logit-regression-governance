@@ -1,7 +1,9 @@
 # Governance Awareness Distribution Analysis
 
 ## Overview
-This project aims to analyze and visualize the awareness of rangeland governance policies using survey data. The primary focus is on generating a density plot to illustrate the distribution of responses regarding awareness, utilizing polynomial regression to smooth the curve.
+This project aims to analyze and visualize the awareness of rangeland governance policies using survey data. 
+
+The primary focus is on generating a density plot to illustrate the distribution of responses regarding awareness, utilizing polynomial regression to smooth the curve.
 
 ---
 # Tools
@@ -29,7 +31,7 @@ This project aims to analyze and visualize the awareness of rangeland governance
 2. Set up the virtual environment:
    ```bash
         cd logit-regression-governance
-        python -m venv venv
+        python3 -m venv venv
         source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
 
