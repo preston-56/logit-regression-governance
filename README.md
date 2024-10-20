@@ -62,7 +62,14 @@ Output
 -I**mage File**: `governance_awareness_distribution.png `in the `results/` directory.
 
 - **Text file**:`polynomial_regression_summary.txt` containing the coefficients of the polynomial regression model.
+
+## Analysis
+- The analysis is performed using Python with libraries such as Pandas, Seaborn, and Matplotlib. The results of the analysis are visualized in the plot below.
+
+  # Governance Awareness Distribution
+  ![Governance Aawareness Distribution](results/governance_awareness_distribution.png)
 ---
+
 **Conclusion**   
  - This project provides valuable insights into the awareness of rangeland governance policies through effective data visualization techniques. 
  - Future work could involve expanding the dataset and refining the analysis to uncover deeper trends.
