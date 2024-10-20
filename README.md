@@ -7,15 +7,11 @@ This project aims to analyze and visualize the awareness of rangeland governance
 # Tools
 
 - **Python**: The primary programming language used for data analysis and visualization.
-- 
+
 - **Pandas**: For data manipulation and analysis.
-- 
 - **NumPy**: For numerical operations and handling arrays.
-
 - **Matplotlib**: For creating static, animated, and interactive visualizations.
-
 - **Seaborn**: For enhanced data visualization with a more aesthetically pleasing style.
-
 - **Scikit-learn**: For polynomial regression and preprocessing.
 **dotenv**: For managing environment variables.
 
