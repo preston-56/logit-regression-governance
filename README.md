@@ -50,7 +50,6 @@ The primary focus is on generating a density plot to illustrate the distribution
    ```bash
    python3 src/logit_regression.py
    ```
-
 # Data Processing
 
 - Load data from an Excel file specified in the environment variable EXCEL_FILE_PATH.
